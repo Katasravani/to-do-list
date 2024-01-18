@@ -1,1 +1,1 @@
-https://github.com/Katasravani/to-do-list
+https://katasravani.github.io/to-do-list/
